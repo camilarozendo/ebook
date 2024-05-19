@@ -1,7 +1,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/camilarozendo/ebook/blob/main/output/O%20Mestre%20das%20Classes-%20A%20saga%20CSS.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
